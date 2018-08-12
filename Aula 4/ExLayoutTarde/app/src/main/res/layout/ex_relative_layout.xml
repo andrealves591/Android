@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/botao1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Botão 1"/>
+
+    <Button
+        android:id="@+id/botao2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="Botão 2"/>
+
+    <Button
+        android:id="@+id/botao3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:text="Botão 3"/>
+
+    <Button
+        android:id="@+id/botao4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Botão 4"/>
+
+    <Button
+        android:id="@+id/botao5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/botao4"
+        android:text="Botão 5"/>
+
+    <Button
+        android:id="@+id/botao6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/botao1"
+        android:layout_below="@id/botao1"
+        android:text="Botão 6"/>
+
+    <Button
+        android:id="@+id/botao7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/botao4"
+        android:text="Botão 7"/>
+
+    <Button
+        android:id="@+id/botao8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/botao1"
+        android:layout_toRightOf="@id/botao6"
+        android:text="Botão 8"/>
+
+</RelativeLayout>

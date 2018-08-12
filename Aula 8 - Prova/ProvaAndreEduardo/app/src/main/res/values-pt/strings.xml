@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProvaAndreEduardo</string>
+    <string name="ex2_tv_red">Vermelho</string>
+    <string name="ex2_tv_green">Verde</string>
+    <string name="ex2_tv_blue">Azul</string>
+    <string name="ex2_tv_yellow">Amarelo</string>
+
+
+    <string name="ex2_tv_one">Linha um</string>
+    <string name="ex2_tv_two">Linha dois</string>
+    <string name="ex2_tv_three">linha três</string>
+    <string name="ex2_tv_four">linha quatro</string>
+
+    <string name="ss_tv_inicio">Iniciando</string>
+    <string name="ma_tv_dados" >Informe Seus Dados Pessoais</string>
+    <string name="ma_et_nome">Nome completo</string>
+    <string name="ma_tv_sexo">Sexo</string>
+    <string name="ma_rd_masculino">Masculino</string>
+    <string name="ma_rd_female">Feminino</string>
+    <string name="ma_et_ddd">DDD</string>
+    <string name="ma_et_telefone">Telefone</string>
+    <string name="ma_et_cpf">CPF</string>
+    <string name="ma_et_email">E-Mail</string>
+    <string name="ma_et_senha">Senha</string>
+    <string name="ma_et_repetir_senha">Repetir Senha</string>
+    <string name="ma_tv_pizzas">Pizzas Favoritas</string>
+    <string name="ma_ch_frango">Frango</string>
+    <string name="ma_ch_calabresa">Calabresa</string>
+    <string name="ma_bt_cadastrar">Cadastrar</string>
+
+
+</resources>

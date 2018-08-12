@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExercicioSplashScreen</string>
+
+    <string name="sc_tv_inicio">Iniciando...</string>
+    <string name="ma_et_usuario">Usuario</string>
+    <string name="ma_et_senha">Senha</string>
+    <string name="ma_bt_entrar">Entrar</string>
+    <string name="ma_bt_limpar">Limpar</string>
+</resources>

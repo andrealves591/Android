@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExRadioCheckTarde</string>
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_tv_sexo">Sexo</string>
+    <string name="ma_rd_masculino">Masculino</string>
+    <string name="ma_rd_feminino">Feminino</string>
+    <string name="ma_tv_prefs">Preferências</string>
+    <string name="ma_ch_anime">Anime</string>
+    <string name="ma_ch_manga">Mangá</string>
+    <string name="ma_bt_ok">OK</string>
+</resources>

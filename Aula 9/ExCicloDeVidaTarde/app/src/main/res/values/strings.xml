@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExCicloDeVidaIntentTarde</string>
+
+    <!-- MainActivity -->
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_tv_sexo">Sexo</string>
+    <string name="ma_rd_masculino">Masculino</string>
+    <string name="ma_rd_feminino">Feminino</string>
+    <string name="ma_tv_pizzas_preferidas">Pizzas preferidas</string>
+    <string name="ma_ch_calabresa">Calabresa</string>
+    <string name="ma_ch_portuguesa">Portuguesa</string>
+    <string name="ma_bt_cadastrar">Cadastrar</string>
+
+</resources>

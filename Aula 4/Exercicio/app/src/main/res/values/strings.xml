@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercicio</string>
+    <string name="bt_red">Red</string>
+    <string name="bt_orange">Orange</string>
+    <string name="bt_yellow">Yellow</string>
+    <string name="bt_green">Green</string>
+    <string name="bt_blue">Blue</string>
+    <string name="bt_indigo">indigo</string>
+    <string name="bt_purple">Purple</string>
+</resources>

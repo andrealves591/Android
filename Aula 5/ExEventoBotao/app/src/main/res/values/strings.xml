@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExEventoBotao</string>
+
+    <!-- MainActivity-->
+    <string name="ma_toast_msg">HI!</string>
+
+    <string name="ma_alert_titulo">Alerta</string>
+    <string name="ma_alert_message">Você foi hackeado!</string>
+
+    <!-- Textos Genericos-->
+    <string name="texto_sim">Blz</string>
+    <string name="texto_nao">Nãooooo</string>
+    <string name="texto_cancelar">Chorar</string>
+    <string name="ma_bt_ok">OK</string>
+</resources>

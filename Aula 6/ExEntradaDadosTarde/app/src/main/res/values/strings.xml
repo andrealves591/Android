@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExEntradaDadosTarde</string>
+    <string name="ma_et_nome">Informe seu nome</string>
+    <string name="ma_et_idade">Informe a idade</string>
+    <string name="ma_et_peso">Informe o peso</string>
+    <string name="bt_limpar">Limpar</string>
+    <string name="ma_bt_ok">OK</string>
+
+    <!-- MainActivity -->
+
+    <string name="ma_alert_titulo">Relatório</string>
+    <string name="ma_alert_ok">OK</string>
+</resources>

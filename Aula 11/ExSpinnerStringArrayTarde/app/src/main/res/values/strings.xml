@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExSpinnerStringArrayTarde</string>
+    <string name="ma_bt_ok">OK</string>
+
+    <string-array name="ma_sp_estado_civil">
+        <item>Selecione</item>
+        <item>Casado</item>
+        <item>Solteiro</item>
+        <item>Divorciado</item>
+        <item>Esperando um milagre</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExIntentExplicitaTarde</string>
+    <string name="ma_bt_ok">OK</string>
+    <string name="ma_et_nome">Nome</string>
+    <string name="t1_et_frase">Frase</string>
+    <string name="t1_bt_ok">OK</string>
+    <string name="t1_bt_cancelar">Cancelar</string>
+    <string name="ma_et_site">Site</string>
+    <string name="ma_bt_navegador">NAVEGADOR</string>
+</resources>

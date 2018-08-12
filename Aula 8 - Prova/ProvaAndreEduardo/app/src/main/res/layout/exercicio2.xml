@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:background="@color/orange500">
+
+        <TextView
+            android:id="@+id/ex2_tv_red"
+            style="@style/ex2_cor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/red500"
+            android:text="@string/ex2_tv_red" />
+
+        <TextView
+            android:id="@+id/ex2_tv_green"
+            style="@style/ex2_cor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/green500"
+            android:text="@string/ex2_tv_green"/>
+
+        <TextView
+            android:id="@+id/ex2_tv_blue"
+            style="@style/ex2_cor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/blue500"
+            android:text="@string/ex2_tv_blue" />
+
+        <TextView
+            android:id="@+id/ex2_tv_yellow"
+            style="@style/ex2_cor"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/yellow500"
+            android:text="@string/ex2_tv_yellow" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/layout1">
+
+        <TextView
+            android:id="@+id/ex2_tv_one"
+            style="@style/ex2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/ex2_tv_one"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/ex2_tv_two"
+            style="@style/ex2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ex2_tv_two"
+
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/ex2_tv_three"
+            style="@style/ex2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ex2_tv_three"
+
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/ex2_tv_four"
+            style="@style/ex2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ex2_tv_four"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

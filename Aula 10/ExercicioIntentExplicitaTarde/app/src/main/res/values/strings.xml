@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExercicioIntentExplicitaTarde</string>
+    <string name="sc_tv_inicio">Iniciando</string>
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_bt_tela1">Abrir Tela 1</string>
+    <string name="ma_bt_tela2">Abrir Tela 2</string>
+    <string name="t1_bt_navegador">Navegador</string>
+    <string name="t1_et_site">Site</string>
+    <string name="t2_et_numero">Numero</string>
+    <string name="t2_bt_discador">Discador</string>
+</resources>

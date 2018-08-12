@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de compatibilidad</string>
+    <string name="ma_et_nome">Nombre 1</string>
+    <string name="ma_et_nome2">Nombre 2</string>
+    <string name="ma_bt_calcular">Calcular</string>
+</resources>

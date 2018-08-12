@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android Studio</string>
+    <string name="ma_tv_inicio">Buildando...</string>
+    <string name="lg_et_login">Login</string>
+    <string name="lg_et_senha">Senha</string>
+    <string name="lg_bt_entrar">Entrar</string>
+    <string name="hm_bt_cadastro">Cadastro</string>
+    <string name="hm_bt_contato">Contatar Desenvolvedor</string>
+    <string name="ct_et_numero">Numero</string>
+    <string name="ct_et_ligar">Ligar</string>
+    <string name="cad_et_nome" >Nome</string>
+    <string name="cad_et_tamanho">Tamanho (MB)</string>
+    <string name="cad_bt_cadastrar">Cadastrar</string>
+
+    <string-array name="cad_sp_categoria">
+        <item>Selecione</item>
+        <item>Edição</item>
+        <item>Fotografia</item>
+        <item>Audio</item>
+        <item>Esportes</item>
+    </string-array>
+
+
+    <string name="ma_alert_titulo">Relatório</string>
+    <string name="ma_alert_ok">OK</string>
+
+</resources>

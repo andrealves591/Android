@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercicio</string>
+    <string name="bt_red">Rojo</string>
+    <string name="bt_orange">Naranja</string>
+    <string name="bt_yellow">Amarilo</string>
+    <string name="bt_green">Verde</string>
+    <string name="bt_blue">Azul</string>
+    <string name="bt_indigo">Anil</string>
+    <string name="bt_purple">Rosa</string>
+
+</resources>

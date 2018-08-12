@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExercicioProduto</string>
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_et_valor">Valor</string>
+    <string name="ma_bt_ok">Ok</string>
+</resources>

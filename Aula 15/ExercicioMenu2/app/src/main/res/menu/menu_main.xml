@@ -1,0 +1,19 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="andre.gautier.exerciciomenu.MainActivity">
+    <item
+        android:id="@+id/menu_tela1"
+        android:orderInCategory="100"
+        android:title="Tela1"
+        android:icon="@drawable/ic_action_color_lens"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_tela2"
+        android:orderInCategory="200"
+        android:title="Tela2"
+        android:icon="@drawable/ic_action_color_lens_blue"
+        app:showAsAction="always" />
+</menu>

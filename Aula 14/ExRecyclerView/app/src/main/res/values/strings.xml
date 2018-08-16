@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExRecyclerView</string>
+
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_et_sexo">Sexo</string>
+    <string name="ma_et_renda">Renda</string>
+    <string name="ma_bt_ok">OK</string>
+    <string name="ma_rb_masculino">Masculino</string>
+    <string name="ma_rb_feminino">Feminino</string>
+
+    <!-- Tela Login -->
+    <string name="et_login">Login</string>
+    <string name="et_senha">Senha No mínimo 6 caracteres</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_criar_conta">Criar conta</string>
+    <string name="btn_esqueci_senha">Esqueci minha senha</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExRecyclerViewTarde</string>
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_et_sexo">Sexo</string>
+    <string name="ma_et_renda">Renda</string>
+    <string name="ma_bt_ok">OK</string>
+</resources>

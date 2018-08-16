@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExercicioRecyclerView</string>
+    <string name="ma_bt_ok">OK</string>
+    <string name="ma_et_renda">Renda</string>
+    <string name="ma_rb_masculino">Masculino</string>
+    <string name="ma_rb_feminino">Feminino</string>
+    <string name="ma_tv_sexo">Sexo</string>
+    <string name="ma_et_nome">Nome</string>
+</resources>
